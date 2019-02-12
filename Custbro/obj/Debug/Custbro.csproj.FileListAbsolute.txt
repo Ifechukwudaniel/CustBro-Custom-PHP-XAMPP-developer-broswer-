@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Custbro\Custbro\bin\Debug\Custbro.exe.config
+C:\Users\user\source\repos\Custbro\Custbro\bin\Debug\Custbro.exe
+C:\Users\user\source\repos\Custbro\Custbro\bin\Debug\Custbro.pdb
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.Form1.resources
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.Properties.Resources.resources
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.exe
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.pdb
+C:\Users\user\source\repos\Custbro\Custbro\bin\Debug\Custbro.exe.manifest
+C:\Users\user\source\repos\Custbro\Custbro\bin\Debug\Custbro.application
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.exe.manifest
+C:\Users\user\source\repos\Custbro\Custbro\obj\Debug\Custbro.application
